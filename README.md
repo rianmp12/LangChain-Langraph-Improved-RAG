@@ -38,7 +38,7 @@ Este projeto utiliza **Ollama** para rodar modelos localmente. Siga os passos ab
     
     ```bash
     ollama pull llama3
-    ollama pull llama3:3.1
+    ollama pull llama3.1
     ```
 3. Certifique-se de que o servidor do Ollama está rodando antes de executar o notebook.
     
