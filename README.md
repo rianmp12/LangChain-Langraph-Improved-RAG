@@ -33,14 +33,14 @@ Antes de executar o notebook, instale as bibliotecas necessárias que se encontr
 ### 2️⃣ Instale e Configure o Ollama
 Este projeto utiliza **Ollama** para rodar modelos localmente. Siga os passos abaixo:
 
-    1. Baixe e instale o Ollama seguindo as instruções do site oficial: [ollama.com](https://ollama.com)
-    2. Baixe os modelos necessários executando os comandos abaixo:
+1. Baixe e instale o Ollama seguindo as instruções do site oficial: [ollama.com](https://ollama.com)
+2. Baixe os modelos necessários executando os comandos abaixo:
     
     ```bash
     ollama pull llama3
     ollama pull llama3:3.1
     ```
-    3. Certifique-se de que o servidor do Ollama está rodando antes de executar o notebook.
+3. Certifique-se de que o servidor do Ollama está rodando antes de executar o notebook.
     
 
 ### 3️⃣ Execute o Notebook
